@@ -10,6 +10,6 @@ Interfaz del programa
 ![Logo](https://github.com/kenjin6576/Portafolio-de-Java/blob/main/CapturaPortafolioJava.png?raw=true)
 
 
-## Optimizations
+## Optimizations Instrucciones
 
 Compila el programa utilizado la versión de java 18 y selecciona las opciones utilizado números enteros.
